@@ -1,6 +1,9 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "17.3.0"
+  },
   "description": "simple chat application",
   "main": "",
   "scripts": {
